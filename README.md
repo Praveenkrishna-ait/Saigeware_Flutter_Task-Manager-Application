@@ -77,3 +77,6 @@ Built With
   [Google Fonts](https://pub.dev/packages/google_fonts) - Dynamic typography
   [Intl](https://pub.dev/packages/intl) - Date formatting
 
+  <img width="1906" height="914" alt="image" src="https://github.com/user-attachments/assets/4ec9174b-5b45-488a-b27a-856a4131880e" />
+
+
