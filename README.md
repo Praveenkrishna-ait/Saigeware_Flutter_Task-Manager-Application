@@ -77,6 +77,14 @@ Built With
   [Google Fonts](https://pub.dev/packages/google_fonts) - Dynamic typography
   [Intl](https://pub.dev/packages/intl) - Date formatting
 
-  <img width="1906" height="914" alt="image" src="https://github.com/user-attachments/assets/4ec9174b-5b45-488a-b27a-856a4131880e" />
+ Dashboard Image: <img width="1906" height="914" alt="image" src="https://github.com/user-attachments/assets/4ec9174b-5b45-488a-b27a-856a4131880e" />
+
+ Add New Task Image: <img width="1886" height="827" alt="image" src="https://github.com/user-attachments/assets/b39e9d50-04d7-48de-8c92-c6011a52e183" />
+
+ Completed Task List Image: <img width="1913" height="747" alt="image" src="https://github.com/user-attachments/assets/303c99a5-52ef-4adf-b05e-838d353cd6c7" />
+
+ Pending Task List Image: <img width="1903" height="902" alt="image" src="https://github.com/user-attachments/assets/8ba97d8a-1636-4eaf-a32a-c8d15e560607" />
+
+
 
 
